@@ -19,11 +19,13 @@ package org.jetbrains.kotlin.resolve.jvm.modules
 import com.intellij.openapi.vfs.VirtualFile
 import org.jetbrains.kotlin.name.FqName
 import org.jetbrains.kotlin.utils.compactIfPossible
+/*
 import org.jetbrains.org.objectweb.asm.ClassReader
 import org.jetbrains.org.objectweb.asm.ClassVisitor
 import org.jetbrains.org.objectweb.asm.ModuleVisitor
 import org.jetbrains.org.objectweb.asm.Opcodes
 import org.jetbrains.org.objectweb.asm.Opcodes.*
+*/
 import java.io.IOException
 
 class JavaModuleInfo(
